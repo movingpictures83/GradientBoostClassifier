@@ -1,0 +1,2 @@
+Prefix plugins/GradientBoostRegressor/example/
+Plugin GradientBoostRegressor inputfile input.csv outputfile none
